@@ -1,1 +1,3 @@
 # GruppenRepo
+
+Hello Team!
