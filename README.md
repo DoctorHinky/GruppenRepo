@@ -1,3 +1,3 @@
 # GruppenRepo
 
-die zeile von Norman Tetzlaff-
+die zeile von Norman TetzlafF
